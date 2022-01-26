@@ -1,0 +1,21 @@
+h2 {
+    color: #440202;
+}
+.purple-font{
+    color: purple;
+}
+
+a {
+    color: white;
+    background-color: #440202;
+}
+a:hover{
+    background-color: #f10606;
+}
+thead{
+    background-color: #a2a1a1;
+}
+table, th, td{
+    padding: 5px;
+    border: 10px black;
+}
